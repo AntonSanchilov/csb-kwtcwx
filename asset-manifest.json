@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "https://antonsanchilov.github.io/csb-kwtcwx/static/js/main.923c7720.chunk.js",
+    "main.js.map": "https://antonsanchilov.github.io/csb-kwtcwx/static/js/main.923c7720.chunk.js.map",
+    "runtime-main.js": "https://antonsanchilov.github.io/csb-kwtcwx/static/js/runtime-main.f576c323.js",
+    "runtime-main.js.map": "https://antonsanchilov.github.io/csb-kwtcwx/static/js/runtime-main.f576c323.js.map",
+    "static/css/2.fe8d9bf6.chunk.css": "https://antonsanchilov.github.io/csb-kwtcwx/static/css/2.fe8d9bf6.chunk.css",
+    "static/js/2.60b145ac.chunk.js": "https://antonsanchilov.github.io/csb-kwtcwx/static/js/2.60b145ac.chunk.js",
+    "static/js/2.60b145ac.chunk.js.map": "https://antonsanchilov.github.io/csb-kwtcwx/static/js/2.60b145ac.chunk.js.map",
+    "index.html": "https://antonsanchilov.github.io/csb-kwtcwx/index.html",
+    "static/css/2.fe8d9bf6.chunk.css.map": "https://antonsanchilov.github.io/csb-kwtcwx/static/css/2.fe8d9bf6.chunk.css.map",
+    "static/js/2.60b145ac.chunk.js.LICENSE.txt": "https://antonsanchilov.github.io/csb-kwtcwx/static/js/2.60b145ac.chunk.js.LICENSE.txt",
+    "static/media/about.c93e138e.svg": "https://antonsanchilov.github.io/csb-kwtcwx/static/media/about.c93e138e.svg",
+    "static/media/checkbox.62d02db3.svg": "https://antonsanchilov.github.io/csb-kwtcwx/static/media/checkbox.62d02db3.svg",
+    "static/media/logo.0db3cdd7.svg": "https://antonsanchilov.github.io/csb-kwtcwx/static/media/logo.0db3cdd7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f576c323.js",
+    "static/css/2.fe8d9bf6.chunk.css",
+    "static/js/2.60b145ac.chunk.js",
+    "static/js/main.923c7720.chunk.js"
+  ]
+}
